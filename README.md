@@ -11,3 +11,5 @@ The project entailed using a Markov Chain in the application of Monopoly to comp
 - Community chest cards and chance cards were factored in and the probabilities for these states were adjusted in the transition matrix 
 accordingly 
 - The steady-state (i.e probabilities of landing on all 40 squares of the board) was calculated by finding the basis of the nullspace
+
+- Refer to the file named 'MSCA32010.final' for the main code which sources the other files 
