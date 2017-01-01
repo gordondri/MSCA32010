@@ -8,7 +8,7 @@ graduate program at the University of Chicago.
 
 The project entailed using a Markov Chain in the application of Monopoly to compute the probabilities of a player landing on a square at the steady-state
 - A transition matrix was calculated and probabilities of going from state i to state j were calculated by 
-calculating the probabilities of the various combinations of two die (2 through 12). 
+computing the probabilities of the various combinations of two die (2 through 12). 
 - Community chest cards and chance cards were factored in and the probabilities for these states were adjusted in the transition matrix 
 accordingly 
 - The steady-state (i.e probabilities of landing on all 40 squares of the board) was calculated by finding the basis of the nullspace
